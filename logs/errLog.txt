@@ -1,0 +1,1 @@
+20230913	16:28:22	fae2fc4f-7b67-4aa9-97c0-eaa52ccca484	TypeError: authHeader?.startWith is not a function
