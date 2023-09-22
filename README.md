@@ -1,6 +1,6 @@
 # "Express JS Tutorial - JWT Protected Routes"
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [Check out Dave gray YouTube Channel for more tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
